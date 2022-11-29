@@ -52,6 +52,6 @@
     {
         "title": "Snapchat",
         "img": "./img/apps/download.png",
-        "location": "https://web.snapchat.com"
+        "location": "https://web.snapchat.com/"
     }
 ]
